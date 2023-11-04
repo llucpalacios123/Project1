@@ -11,3 +11,6 @@ I used this palette because there are two different grays and three different bl
 
 Link figma: 
 https://www.figma.com/file/WMmlVDwevirIHDYhx5ROcH/Untitled?type=design&node-id=0%3A1&mode=design&t=I0NbEktRrnWUZ8DP-1
+
+Link Github Pages: 
+https://llucpalacios123.github.io/Project1/
