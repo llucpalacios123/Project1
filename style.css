@@ -1,0 +1,143 @@
+.centrat{
+    text-align: center;
+}
+
+.textAboutMe{
+    padding-top: 5%;
+}
+.imgAboutMe{
+    text-align: center;
+}
+.sectionsCV{
+    padding-top: 7%;
+}
+
+.sectionInsideCV{
+    padding-top: 5%;
+}
+
+.cardEducation{
+    margin-top: 5%;
+}
+
+.skillRow{
+    width: 100%;
+}
+.skillColLeft{
+    width: 49%; 
+    float: left;
+}
+.skillColRight{
+    width: 49%; 
+    float: right;
+}
+.skillName{
+    float: left;
+    width: 30%;
+}
+.skillProgress{
+    float: left;
+    width: 50%;
+}
+
+body {
+    font-family: 'Poppins', Georgia, 'Times New Roman', Times, serif;
+    background: #E7ECEF;
+}
+
+p {
+    color: #8B8C89;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    padding-top: 2%;
+    width: 12%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #6096BA;
+    color: #E7ECEF;
+}
+
+#sidebar ul p {
+    color: #E7ECEF;
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    display: block;
+}
+
+#sidebar ul li a:hover {
+    color: #6096BA;
+    background: #E7ECEF;
+}
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.4s;
+}
+
+#content {
+    width: 88%;
+    padding-left: 0%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    float: right;
+}
+
+#content.active {
+    width: 100%;
+    float:right;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+tr {
+    border: none;
+}
+td:first-child {
+    border-right: solid 1px #274C77;
+  }
+
+.centerTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cellTableDate{
+
+    vertical-align:top;
+    text-align: right;
+    padding-top: 0%;
+    padding-right: 2%;
+    width: 15%;
+}
+.columnWorkDate{
+    width: 30%;
+}
+.columnWorkInfo{
+    width: 30%;
+}
+
+ul.ulNoStyle{
+    list-style: none;
+  }
+.progressColor {
+    background-color: #274C77!important;
+}
+.colorGrey{
+    background: #8B8C89;
+}
